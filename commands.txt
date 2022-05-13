@@ -1,1 +1,9 @@
 Git Commands
+
+
+git init 
+git status
+git add <file>
+git commit -m <"">
+git remote add origin <git repo>
+git push
